@@ -1,10 +1,10 @@
-# JS Calculator
+## JS Calculator
 
-A production-ready Vanilla JavaScript calculator built from scratch using HTML, CSS, and JavaScript.
+A production ready Vanilla JavaScript calculator built from scratch using HTML, CSS, and JavaScript.
 
-This project is part of my journey to becoming a production-ready full-stack developer.
+This project is part of my journey to becoming a production ready full stack developer.
 
-## 🚀 Planned Features
+# 🚀 Planned Features
 
 - Addition
 - Subtraction
@@ -17,7 +17,7 @@ This project is part of my journey to becoming a production-ready full-stack dev
 - Responsive layout
 - Static-site deployable
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 - HTML
 - CSS (Grid)
@@ -25,15 +25,15 @@ This project is part of my journey to becoming a production-ready full-stack dev
 - GitHub
 - Netlify (Deployment)
 
-## 🎯 Objective
+# 🎯 Objective
 
-Build a clean, production-ready calculator using proper state management and UI separation.
+Build a clean, production ready calculator using proper state management and UI separation.
 
-## 📦 Deployment
+# 📦 Deployment
 
 Live Demo: Coming soon  
 
-## 👨🏽‍💻 Author
+# 👨🏽‍💻 Author
 
 Mbuso  
 GitHub: https://github.com/mbuso-dev
