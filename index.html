@@ -2,20 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>JS Calculator | Mbuso</title>
-    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!-- This line ensures that the webpage is responsive and displays correctly on different devices by setting the viewport width to the device's width and the initial zoom level to 1.0. -->
+    <title>JS Calculator | Mbuso</title> <!--Browser tab title-->
+    <link rel="stylesheet" href="style.css" /> <!--link to CSS file-->
 
 </head>
 <body>
-    <div class="calculator">
+    <div class="calculator"> <!-- Main container for the calculator-->
     
-    <div class="display">
-      <div class="previous-operand"></div>
-      <div class="current-operand">0</div>
+    <div class="display"> <!-- Display screen for calculator-->
+      <div class="previous-operand"></div> <!--shows previous input or result (e.g., 5 + )-->
+      <div class="current-operand">0</div> <!--shows current input or result (e.g., 5)-->
     </div>
 
-    <div class="buttons">
+    <div class="buttons"> <!-- Container forall calculator buttons-->
     <button onclick="clearDisplay()"class="clear span-two">C</button>
     <button onclick="deleteLast()"class="delete">DEL</button>
     <button onclick="appendToDisplay('/')"class="operator">/</button>
@@ -42,6 +42,6 @@
 
 </div>
 
-<script src="script.js"></script>
+<script src="script.js"></script> <!--link to JavaScript file that contains the logic for the calculator's functionality, such as handling button clicks, updating the display, and performing calculations.-->
 </body>
 </html>
