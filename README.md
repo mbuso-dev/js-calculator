@@ -31,7 +31,7 @@ Build a clean, production ready calculator using proper state management and UI 
 
 # 📦 Deployment
 
-Live Demo: Coming soon  
+Live Demo: 11 March 2026
 
 # 👨🏽‍💻 Author
 
